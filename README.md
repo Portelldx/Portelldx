@@ -4,6 +4,7 @@
   
 
 ### <div align="center">I'm Jordi, a Junior Developer 👨‍💻 Doing typos since 2019 🚀</div>  
+<br>
   
 
 - 🔭 I’m currently studying Web Dev at Ilerna Online  
