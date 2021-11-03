@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
+<img style=”margin: 10px” src=”https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt=”React” height=”50" />
 
 
 <!--
