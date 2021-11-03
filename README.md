@@ -20,10 +20,6 @@
 
 <br/>  
 
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
 ## Connect with me  
 <div align="center">
 <a href="https://twitter.com/Portelldx" target="_blank">
