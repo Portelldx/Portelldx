@@ -1,8 +1,9 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-  
 
+  
+<br>
 ### <div align="center">I'm Jordi, a Junior Developer 👨‍💻 Doing typos since 2019 🚀</div>  
 <br>
   
